@@ -1,4 +1,4 @@
-# powerBi
+# E-commerce Sales Dashboard
 1. E-Commerce Sales Dashboard
 > Created interactive dashboard to track and analyze online sales data, used complex parameters to drill down in worksheet and customization using filters and slicers.
 > Created connections, join new tables, calculation to ,anipulate data and enable user driven parameters for visualizations, used different types of customized visualization(bar chart, pie chart, donut chart, clustered bar chart, map, slicers etc.)
